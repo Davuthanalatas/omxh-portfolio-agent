@@ -1,0 +1,62 @@
+Portfolio Recommendation Report – OMXH Stocks
+
+Date: [Current Date]
+
+Summary:
+This recommendation balances momentum-driven growth opportunities with stable, moderate-risk holdings, while avoiding high-risk, low-performance stocks. The focus is on maximizing risk-adjusted returns with consideration of volatility and technical indicators.
+
+1. BUY
+- NOKIA.HE
+  Justification: Despite high volatility (44.01%), NOKIA.HE shows a robust upward trend with price well above both MA20 and MA50, supported by a strong Sharpe ratio (3.3328). Although RSI indicates it is overbought (82.45), momentum investors can capitalize on continued strength.
+
+- OUT1V.HE
+  Justification: Similar to NOKIA.HE, OUT1V.HE is overbought (RSI 76.82) with a positive technical setup (Price > MA20 > MA50) and a good Sharpe ratio (2.7966). Volatility is moderately high (40.36%), but risk-adjusted returns justify a buy for aggressive growth portfolios.
+
+- NESTE.HE
+  Justification: Overbought (RSI 71.49) but with a solid upward trend and attractive Sharpe ratio (2.7563). Volatility is relatively high (44.84%), but Neste’s strong momentum supports a buy recommendation for investors comfortable with short-term swings.
+
+- ELISA.HE
+  Justification: ELISA offers a stable risk profile with lowest volatility (17.44%) among peers, price close to moving averages, and a moderate Sharpe ratio (1.2863). Neutral RSI (51.65) suggests balanced momentum, making it a solid buy for moderate risk investors seeking steady growth.
+
+- WRT1V.HE
+  Justification: Neutral RSI (51.52) and price aligned near MA20 and above MA50 indicate a stable trend. Sharpe ratio of 1.8701 and moderate volatility (37.94%) support accumulation for a balanced portfolio.
+
+2. HOLD
+- TIETO.HE
+  Justification: Approaching overbought conditions (RSI 66.38) with a positive price trend above moving averages, but lower Sharpe ratio (0.8377) and moderate volatility (35.42%) warrant a hold status. Monitor for momentum confirmation or signs of weakening.
+
+- FORTUM.HE
+  Justification: Slightly oversold RSI (42.93) and price hovering near MA20 and above MA50, but low Sharpe ratio (0.8816) suggest a cautious hold. Fundamental update needed to reconsider position.
+
+3. AVOID
+- METSO.HE
+  Justification: Oversold (RSI 34.24), price below MA20 and MA50, low Sharpe ratio (0.3960), and moderate volatility (34.72%) indicate weak momentum and poor risk-adjusted returns. Avoid until signs of turnaround emerge.
+
+- STERV.HE
+  Justification: Oversold (RSI 31.71), negative Sharpe ratio (-0.1602), price below both MAs, and moderate volatility (32.96%) flag high risk and poor performance. Recommend avoiding due to unfavorable technicals.
+
+- KNEBV.HE
+  Justification: Strongly oversold (RSI 24.64) with price well below moving averages, negative Sharpe ratio (-0.7482), and despite lower volatility (22.63%) represents a high-risk stock with weak momentum. Avoid until substantial improvement.
+
+---
+
+Summary Table
+
+| Ticker  | Recommendation | Rationale Summary                       |
+|---------|----------------|---------------------------------------|
+| NOKIA.HE | BUY            | Strong momentum, high Sharpe, volatility accepted |
+| OUT1V.HE | BUY            | Bullish trend, good Sharpe, overbought but valid momentum |
+| NESTE.HE | BUY            | Uptrend, attractive risk-adjusted return, high volatility |
+| ELISA.HE | BUY            | Stable, low volatility, moderate Sharpe, balanced momentum |
+| WRT1V.HE | BUY            | Neutral momentum, decent Sharpe, moderate volatility |
+| TIETO.HE | HOLD           | Moderate momentum, lower Sharpe, monitor for developments |
+| FORTUM.HE| HOLD           | Slightly oversold, low Sharpe, cautious stance |
+| METSO.HE | AVOID          | Oversold, weak momentum, poor risk-adjusted metrics |
+| STERV.HE | AVOID          | High risk, negative Sharpe, oversold technicals |
+| KNEBV.HE | AVOID          | Strong oversold, negative Sharpe, unfavorable technicals |
+
+---
+
+Please consider individual risk tolerance and investment horizon when applying this recommendation. For momentum-focused portfolios, overweighting selected buys (NOKIA.HE, OUT1V.HE, NESTE.HE) is advisable. For more conservative investors, ELISA.HE and WRT1V.HE provide stability with acceptable returns.
+
+End of Report.
