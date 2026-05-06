@@ -1,0 +1,148 @@
+**Nordic Equity Markets Portfolio Recommendation Report**
+
+**Date:** [Insert Date]
+
+**Prepared by:** [Your Name], Senior Portfolio Strategist – Nordic Equity Markets
+
+---
+
+**Objective:** Review and provide investment recommendations for selected stocks on the OMX Helsinki Stock Exchange, based on key technical and risk metrics.
+
+---
+
+### Stock Analysis and Recommendations
+
+1. **NOKIA.HE**
+   - **Current Price:** 11.345
+   - **Metrics:**
+     - 20-day MA: 9.2388
+     - 50-day MA: 7.8310
+     - RSI: 85.02 (Overbought)
+     - Sharpe Ratio: 3.2854
+     - Volatility: 44.05%
+   - **Recommendation: BUY**
+   - **Rationale:** Despite being in overbought territory (RSI > 70), NOKIA displays strong upward momentum with a high Sharpe ratio indicating favorable risk-adjusted returns. Its price is significantly above moving averages, suggesting a strong uptrend.
+
+2. **OUT1V.HE**
+   - **Current Price:** 5.980
+   - **Metrics:**
+     - 20-day MA: 5.3658
+     - 50-day MA: 5.1023
+     - RSI: 82.33 (Overbought)
+     - Sharpe Ratio: 2.8213
+     - Volatility: 40.41%
+   - **Recommendation: BUY**
+   - **Rationale:** While the RSI points to overbought conditions, the stock's positive momentum and attractive Sharpe ratio support a buy. The current price exceeding both moving averages signifies ongoing strength.
+
+3. **NESTE.HE**
+   - **Current Price:** 28.040
+   - **Metrics:**
+     - 20-day MA: 26.4395
+     - 50-day MA: 25.9751
+     - RSI: 67.14
+     - Sharpe Ratio: 2.2936
+     - Volatility: 45.14%
+   - **Recommendation: HOLD**
+   - **Rationale:** NESTE appears moderately bullish with RSI nearing overbought but still holds potential for gains. The Sharpe ratio is positive, yet the high volatility necessitates a cautious stance.
+
+4. **WRT1V.HE**
+   - **Current Price:** 37.000
+   - **Metrics:**
+     - 20-day MA: 36.3720
+     - 50-day MA: 34.4637
+     - RSI: 57.81
+     - Sharpe Ratio: 1.9773
+     - Volatility: 38.11%
+   - **Recommendation: HOLD**
+   - **Rationale:** Trading above moving averages and with a reasonable Sharpe ratio, WRT1V remains stable. The RSI is neutral, suggesting limited immediate upside potential.
+
+5. **ELISA.HE**
+   - **Current Price:** 41.220
+   - **Metrics:**
+     - 20-day MA: 41.2810
+     - 50-day MA: 42.0265
+     - RSI: 51.65
+     - Sharpe Ratio: 1.1878
+     - Volatility: 17.44%
+   - **Recommendation: HOLD**
+   - **Rationale:** With the current price aligning closely with moving averages and low volatility, ELISA’s pricing appears stable. Its lower Sharpe ratio signals moderate returns, warranting a hold.
+
+6. **TIETO.HE**
+   - **Current Price:** 20.060
+   - **Metrics:**
+     - 20-day MA: 18.7500
+     - 50-day MA: 18.3852
+     - RSI: 75.37
+     - Sharpe Ratio: 0.9514
+     - Volatility: 35.45%
+   - **Recommendation: AVOID**
+   - **Rationale:** Despite a positive RSI, TIETO’s Sharpe ratio is less compelling, coupled with relatively high volatility, making risk-reward less attractive.
+
+7. **METSO.HE**
+   - **Current Price:** 15.290
+   - **Metrics:**
+     - 20-day MA: 15.3816
+     - 50-day MA: 15.4596
+     - RSI: 45.30
+     - Sharpe Ratio: 0.7150
+     - Volatility: 35.54%
+   - **Recommendation: HOLD**
+   - **Rationale:** Currently straddling its moving averages, METSO exhibits limited momentum and a low Sharpe ratio. The neutral RSI suggests waiting for clearer directional signals.
+
+8. **FORTUM.HE**
+   - **Current Price:** 21.090
+   - **Metrics:**
+     - 20-day MA: 21.7430
+     - 50-day MA: 20.8231
+     - RSI: 40.04
+     - Sharpe Ratio: 0.6383
+     - Volatility: 32.36%
+   - **Recommendation: HOLD**
+   - **Rationale:** Though below the short-term moving average, FORTUM’s close price positioning and subdued Sharpe ratio indicate a wait-and-see approach.
+
+9. **STERV.HE**
+   - **Current Price:** 9.700
+   - **Metrics:**
+     - 20-day MA: 9.9945
+     - 50-day MA: 10.2063
+     - RSI: 36.77
+     - Sharpe Ratio: -0.0636
+     - Volatility: 33.00%
+   - **Recommendation: AVOID**
+   - **Rationale:** Trading below both moving averages and a negative Sharpe ratio reflect potential downside risk, indicating a need to avoid this stock.
+
+10. **KNEBV.HE**
+    - **Current Price:** 52.840
+    - **Metrics:**
+      - 20-day MA: 56.4730
+      - 50-day MA: 56.8942
+      - RSI: 29.21 (Oversold)
+      - Sharpe Ratio: -0.6860
+      - Volatility: 22.68%
+    - **Recommendation: AVOID**
+    - **Rationale:** Despite an oversold RSI, the negative Sharpe ratio and positioning below moving averages suggest sustaining bearish momentum, recommending avoidance.
+
+---
+
+### Summary Table
+
+| Ticker   | Recommendation |
+|----------|----------------|
+| NOKIA.HE | BUY            |
+| OUT1V.HE | BUY            |
+| NESTE.HE | HOLD           |
+| WRT1V.HE | HOLD           |
+| ELISA.HE | HOLD           |
+| TIETO.HE | AVOID          |
+| METSO.HE | HOLD           |
+| FORTUM.HE| HOLD           |
+| STERV.HE | AVOID          |
+| KNEBV.HE | AVOID          |
+
+**Conclusion:** This report provides a comprehensive view based on quantitative technical metrics for informed decision-making. Investors should evaluate these recommendations in the context of their specific risk tolerance and investment objectives.
+
+---
+
+**[Your Name]**
+
+**Senior Portfolio Strategist – Nordic Equity Markets**
