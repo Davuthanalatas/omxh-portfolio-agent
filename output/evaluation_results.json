@@ -1,0 +1,38 @@
+{
+  "CrewAI": {
+    "latency_seconds": 47.23,
+    "estimated_tokens": 970,
+    "quality": {
+      "structure_score": 10,
+      "justification_score": 9,
+      "clarity_score": 9,
+      "total_score": 9.33,
+      "strengths": "The report is well-structured with clear sections for BUY, HOLD, and AVOID recommendations, and provides detailed justifications using specific financial metrics.",
+      "weaknesses": "While the report is clear and professional, it could benefit from a more detailed explanation of how the metrics are weighted in the decision-making process."
+    },
+    "reliability": {
+      "has_buy": true,
+      "has_hold": true,
+      "has_avoid": true,
+      "is_complete": true
+    }
+  },
+  "LangGraph": {
+    "latency_seconds": 11.19,
+    "estimated_tokens": 1240,
+    "quality": {
+      "structure_score": 10,
+      "justification_score": 9,
+      "clarity_score": 9,
+      "total_score": 9.33,
+      "strengths": "The report is well-structured with clear sections for each stock and provides detailed justifications using specific financial metrics.",
+      "weaknesses": "The report could improve by providing more context or analysis on broader market conditions that might affect the recommendations."
+    },
+    "reliability": {
+      "has_buy": true,
+      "has_hold": true,
+      "has_avoid": true,
+      "is_complete": true
+    }
+  }
+}
