@@ -1,0 +1,57 @@
+### Portfolio Recommendation Report for OMXH Stocks
+
+#### 1. NOKIA.HE
+- **Recommendation**: BUY
+- **Justification**: Strong bullish trend with RSI indicating momentum. High Sharpe ratio suggests favorable risk-adjusted returns.
+
+#### 2. NESTE.HE
+- **Recommendation**: BUY
+- **Justification**: Strong performance with a high Sharpe ratio. Price is above moving averages, indicating a positive trend.
+
+#### 3. FORTUM.HE
+- **Recommendation**: HOLD
+- **Justification**: Currently in consolidation. Moderate Sharpe ratio; neutral RSI indicates balanced momentum.
+
+#### 4. STERV.HE
+- **Recommendation**: AVOID
+- **Justification**: Oversold with a bearish trend. Negative Sharpe ratio reflects poor risk-adjusted performance.
+
+#### 5. KNEBV.HE
+- **Recommendation**: AVOID
+- **Justification**: Oversold and in a strong bearish trend. Negative Sharpe ratio not favorable.
+
+#### 6. OUT1V.HE
+- **Recommendation**: BUY
+- **Justification**: Bullish trend with solid risk-adjusted return potential, as indicated by the Sharpe ratio.
+
+#### 7. METSO.HE
+- **Recommendation**: HOLD
+- **Justification**: Bearish trend expected to continue, but potential for improvement with market shifts.
+
+#### 8. TIETO.HE
+- **Recommendation**: HOLD
+- **Justification**: Approaching overbought territory. Moderate performance with potential for growth.
+
+#### 9. ELISA.HE
+- **Recommendation**: HOLD
+- **Justification**: Potential consolidation. Stable performance with a moderate Sharpe ratio.
+
+#### 10. WRT1V.HE
+- **Recommendation**: HOLD
+- **Justification**: Neutral indicators suggest potential for steady performance in portfolio.
+
+### Summary Table
+| Stock     | Recommendation |
+|-----------|----------------|
+| NOKIA.HE  | BUY            |
+| NESTE.HE  | BUY            |
+| FORTUM.HE | HOLD           |
+| STERV.HE  | AVOID          |
+| KNEBV.HE  | AVOID          |
+| OUT1V.HE  | BUY            |
+| METSO.HE  | HOLD           |
+| TIETO.HE  | HOLD           |
+| ELISA.HE  | HOLD           |
+| WRT1V.HE  | HOLD           |
+
+This portfolio emphasizes stocks with strong bullish trends and favorable risk-adjusted returns while avoiding those with high volatility and weak performance indicators.
