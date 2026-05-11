@@ -1,0 +1,74 @@
+============================================================================================
+                           FRAMEWORK EVALUATION  —  ALL 3 LAYERS                            
+============================================================================================
+Metric                                      CrewAI     LangGraph    OpenAI SDK    Smolagents
+--------------------------------------------------------------------------------------------
+  LAYER 1 — SYSTEM METRICS
+--------------------------------------------------------------------------------------------
+Latency (seconds)                            error         error         error         error
+Estimated Tokens                              1068          1303           540            78
+Report Complete (B/H/A)                       True          True          True          True
+--------------------------------------------------------------------------------------------
+  LAYER 2 — STRUCTURAL METRICS
+--------------------------------------------------------------------------------------------
+Stock Coverage (/10)                            10            10            10            10
+Metric Mentions (/6)                             6             4             4             4
+Word Count                                     577           698           285            48
+BUY Mentions                                     9             5             6             1
+HOLD Mentions                                    5            11            10             1
+AVOID Mentions                                   6             7             4             1
+--------------------------------------------------------------------------------------------
+  LAYER 3 — BACKTEST  (2026-02-10 → 2026-05-11)
+--------------------------------------------------------------------------------------------
+Avg BUY Return (%)                         +26.51%       +48.42%       +43.93%        +2.44%
+Avg AVOID Return (%)                       -12.31%        -3.83%       -13.01%       +12.50%
+Backtest Score (%)                         +38.82%       +52.25%       +56.94%       -10.06%
+============================================================================================
+
+======================================================================
+  BACKTEST DETAIL
+  Period : 2026-02-10 → 2026-05-11
+======================================================================
+
+  Actual Price Returns:
+    NOKIA.HE         +84.03%
+    NESTE.HE         +34.95%
+    FORTUM.HE        +6.17%
+    STERV.HE         -14.12%
+    KNEBV.HE         -11.90%
+    OUT1V.HE         +12.82%
+    METSO.HE         -10.91%
+    TIETO.HE         +14.54%
+    ELISA.HE         -1.70%
+    WRT1V.HE         +2.44%
+
+  CrewAI  [fallback report — approx]
+    BUY picks         : NOKIA.HE, NESTE.HE, OUT1V.HE, ELISA.HE, WRT1V.HE
+    AVOID picks       : STERV.HE, KNEBV.HE, METSO.HE
+    Avg BUY return    : +26.51%
+    Avg AVOID return  : -12.31%
+    Backtest score    : +38.82%  ✓ BUY > AVOID
+
+  LangGraph  [fallback report — approx]
+    BUY picks         : NOKIA.HE, OUT1V.HE
+    AVOID picks       : STERV.HE, KNEBV.HE, TIETO.HE
+    Avg BUY return    : +48.42%
+    Avg AVOID return  : -3.83%
+    Backtest score    : +52.25%  ✓ BUY > AVOID
+
+  OpenAI SDK  [fallback report — approx]
+    BUY picks         : NOKIA.HE, NESTE.HE, OUT1V.HE
+    AVOID picks       : STERV.HE, KNEBV.HE
+    Avg BUY return    : +43.93%
+    Avg AVOID return  : -13.01%
+    Backtest score    : +56.94%  ✓ BUY > AVOID
+
+  Smolagents  [fallback report — approx]
+    BUY picks         : WRT1V.HE
+    AVOID picks       : NOKIA.HE, FORTUM.HE, STERV.HE, KNEBV.HE, ELISA.HE
+    Avg BUY return    : +2.44%
+    Avg AVOID return  : +12.50%
+    Backtest score    : -10.06%  ✗ AVOID > BUY
+
+  Best backtest score: OpenAI SDK  (+56.94%)
+======================================================================
